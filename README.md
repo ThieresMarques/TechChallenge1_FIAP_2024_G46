@@ -13,4 +13,4 @@ Isaque Ramalho Dos Santos RM 354677
 Thieres Claumer Moreira Marques  RM 354008 
 
 # Documento explicativo/acionistas
-link
+https://github.com/ThieresMarques/TechChallenge1_FIAP_2024_G46/blob/main/Tech%20Challenger%201%20Grupo%2046.pdf
