@@ -17,3 +17,5 @@ https://github.com/ThieresMarques/TechChallenge1_FIAP_2024_G46/blob/main/Tech%20
 
 # Documento PBI
 https://github.com/ThieresMarques/TechChallenge1_FIAP_2024_G46/blob/main/Exporta%C3%A7%C3%A3o%20Vinho.pbix
+
+![image](https://github.com/ThieresMarques/TechChallenge1_FIAP_2024_G46/assets/167770809/36498cb6-98c8-47e7-9163-b45aea43511c)
